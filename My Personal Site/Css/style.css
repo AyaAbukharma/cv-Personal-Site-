@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  width: 5%;
+  border-color: gray;
+  border-width: 5px;
+  margin: 100px auto;
+
+}
+p{
+  line-height: 2;
+  font-size: 150%;
+}
+   
+h1{
+    color: #914F1E;
+   margin: 0 auto 0 auto;
+    width: 30%;
+    font-family: "Sacramento", cursive;
+    font-size: 100px;
+margin-top: 100px;
+padding-bottom:20px ;
+
+}
+h2{
+color: #914F1E;
+font-family: 'Montserrat' , sans-serif;
+font-size: 2.5rem;
+font-weight: normal;
+}
+h3{
+  color: #B5C18E;
+  font-size: 170%;
+  font-family: "Archivo Black", sans-serif;
+}
+ 
+.top{
+    background-color:#F7DCB9;
+    position: relative;
+    padding-top: 100px;
+
+}
+.mid{
+ 
+ margin: 100px 0 ; 
+
+}
+
+.bott{
+    background-color: #DEAC80;
+    padding: 50px 0 20px;
+    
+}
+.pro{
+text-decoration: underline;
+}
+.introduction{
+  font-size: 150%;
+  width: 40%;
+  margin: auto;
+}
+.contact{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+
+}
+
+
+.bot-cloud{
+    position: absolute;
+    left: 200px;
+}
+    
+.imgmo{
+    width:50%;
+    height: 20%;
+    margin-bottom: 60px;
+  }
+
+  .skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+
+
+  }
+  .code-img{
+    width: 25%;
+    float: left;
+    margin-right:30px ;
+  }
+  .paint-img{
+    width: 25%;
+    float: right;
+    margin-left:30px ;
+  }
+  .aya-image{
+ 
+    width: 250px;
+    height: 250px;
+  }
+
+
+  .myButton {
+    background-color:#d49659;
+    border-radius:28px;
+    border:1px solid #54381e;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Verdana;
+    font-size:18px;
+    padding:16px 31px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #4d3534;
+  }
+  .myButton:hover {
+    background-color:#e0c2a2;
+  }
+  .myButton:active {
+    position:relative;
+    top:1px;
+  }
+   a{
+    color: black;
+    font-family: 'Montserrat' , sans-serif;
+    margin: 10px 20px;
+    text-decoration:none ;
+
+   }
+    a:hover{
+      color: #ffffff;
+    }      
+    .final-M{
+      color: #ffffff;
+      padding: 20px 0px;
+    }
+    .flow{
+     width: 15%;
+    float: left;
+    margin-right:30px ;
+    
+    }
+    .Conta{
+      width: 5%;
+      height: 5%;
+    }
